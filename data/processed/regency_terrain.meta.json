@@ -1,0 +1,34 @@
+{
+  "dibuat_utc": "2026-10-20T09:40:46+00:00",
+  "sumber": "AWS Terrain Tiles (skadi .hgt.gz, 1 arc-detik; dasar SRTM untuk Indonesia)",
+  "url": "https://registry.opendata.aws/terrain-tiles/",
+  "tile": {
+    "S03E100.hgt.gz": "9146c9ad8df1554f25f639fad8bbf117ced84afb469a981f3f663fa4e88a2d35",
+    "S03E101.hgt.gz": "925c7f59491bd7ab62af153bd691c2009f6a727d5ce90db1ed12a00ffff8ee4a",
+    "S03E102.hgt.gz": "af3b90bd21ed9948aa5fff21aea1d290af7daef2ded4bb8d2e0a6205b5c40ef7",
+    "S03E103.hgt.gz": "6f314752a707a8b30c117fbacd4941707827bb1f58f3d843cc48bcd4bd0ddcdc",
+    "S04E100.hgt.gz": "cba4a161dec725f878e047f317f994a9cedd52c79ec68b712b101e2042a806c3",
+    "S04E101.hgt.gz": "aabaad64a0fc31c25096a37e29f2bc0138140733c4b35f8a834dd190349322d0",
+    "S04E102.hgt.gz": "8c114f1450c0ad93ea3b2ef8de012cb770a77e236db244797816e5b4dfec63ec",
+    "S04E103.hgt.gz": "c8aa138b70c925eaecfa90d9fe849505b82ca58f36cf7671dfed38e974886673",
+    "S05E100.hgt.gz": "745a615d02eea94502ab408a3f0227064e7b9a4265f6154ad41b835f72b62291",
+    "S05E101.hgt.gz": "57fb54421687bbf0ff346f3fe45573c466bbf400d30cfc648debd16aef7e1ddb",
+    "S05E102.hgt.gz": "ca4fa57792a077726e47673902270dd3a14e076de874b84c40bd8b4bbd8c0656",
+    "S05E103.hgt.gz": "0a941e8f3f59061863b39f54c506353d5ae816578354734bb3e461c91eb798fc",
+    "S06E100.hgt.gz": "afddd87fa45584985cd9bcc7b08c167f76fab034372dc0a5abcefb30d54e97b4",
+    "S06E101.hgt.gz": "957e788b474a4bccf0611dcd204e09bf81c076e4c86146ac8666a9732146d446",
+    "S06E102.hgt.gz": "684bb4941d0b1c272b55a7b219af9544d188ea94d4700ed43bdb59aba26eb06d",
+    "S06E103.hgt.gz": "63c7095b6e166d97cf8177b19a7764683716052dd79db4047e5343df836b0231"
+  },
+  "parameter": {
+    "ambang_elevasi_rendah_m": 25.0,
+    "ambang_datar_derajat": 2.0,
+    "subsampling_dem": "tiap 3 sel (~90 m)",
+    "stride_zonal": 2
+  },
+  "batasan": [
+    "Ambang adalah pilihan analis, bukan standar hidrologi.",
+    "SRTM adalah permukaan (termasuk kanopi/bangunan), bukan tanah telanjang.",
+    "Resolusi ~90 m untuk statistik per kabupaten; tidak untuk keputusan lokal."
+  ]
+}

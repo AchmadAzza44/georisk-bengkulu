@@ -1,0 +1,11 @@
+regency_name,elevasi_rata_m,elevasi_median_m,persen_area_elevasi_rendah,kemiringan_rata_derajat,persen_area_datar,sel_valid,persen_sel_valid
+Bengkulu Selatan,320.271,150.0,5.19,9.595,16.694,35972,100.0
+Bengkulu Tengah,214.781,108.0,11.401,7.57,14.275,30619,100.0
+Bengkulu Utara,287.556,135.0,7.357,7.736,15.172,129954,100.0
+Kaur,572.902,417.0,2.758,12.442,7.688,74580,100.0
+Kepahiang,754.591,690.0,0.0,8.417,8.387,20688,100.0
+Kota Bengkulu,16.101,13.0,81.762,1.794,67.664,5483,100.0
+Lebong,1082.902,1070.0,0.0,16.054,4.954,48788,100.0
+Mukomuko,275.108,154.0,12.639,8.548,17.476,124681,100.0
+Rejang Lebong,759.65,788.0,0.0,9.656,9.488,44161,100.0
+Seluma,340.599,164.0,22.674,9.16,22.471,71915,100.0

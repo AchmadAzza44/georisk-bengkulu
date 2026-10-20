@@ -1,0 +1,9 @@
+streamlit>=1.50
+folium>=0.16
+streamlit-folium>=0.17
+geopandas>=0.14
+shapely>=2.0
+pandas>=2.1
+numpy>=1.26
+reportlab>=4.1
+pytest>=8.0

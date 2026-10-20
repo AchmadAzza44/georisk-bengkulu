@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+output/
+*.geojson.bak
+.DS_Store
+
+data/dem/
+data/analysis_log.jsonl
